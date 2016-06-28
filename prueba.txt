@@ -1,9 +1,2 @@
-Hola mundo! dfsgdsfgsd
-<<<<<<< HEAD
-
-Voy a generarme un conflicto conmigo mismo.... :_S
-
-
-
-=======
->>>>>>> branch 'master' of https://github.com/japarejo/curso-git-japarejo.git
+Nos vamos para casa
+España 0 - Italia 3
