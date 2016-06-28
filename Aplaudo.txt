@@ -6,3 +6,5 @@ Ej1: los personajes de los Simpson
 ------------------------------------------------------------------------------------------------------
 Ej2: La media hora de "recreo"
 ------------------------------------------------------------------------------------------------------
+
+El profe se implica mucho y propone ejemplos interesantes, pero ¡corre mucho en ocasiones!
