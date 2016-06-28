@@ -1,6 +1,9 @@
 Hola mundo! dfsgdsfgsd
+<<<<<<< HEAD
 
 Voy a generarme un conflicto conmigo mismo.... :_S
 
 
 
+=======
+>>>>>>> branch 'master' of https://github.com/japarejo/curso-git-japarejo.git
